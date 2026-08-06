@@ -78,7 +78,7 @@ cd your-portfolio
 
 Or use the VS Code Live Server extension for a better development experience.
 
-## 📸 Preview
+##  Preview
 
 Add screenshots of your portfolio here after completing the project.
 

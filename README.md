@@ -25,7 +25,7 @@ This portfolio serves as my online professional profile where visitors can:
 * Smooth scrolling and animations
 * Mobile-friendly layout
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 
@@ -60,7 +60,7 @@ portfolio/
 └── README.md
 ```
 
-## 💻 Getting Started
+## Getting Started
 
 1. Clone the repository
 

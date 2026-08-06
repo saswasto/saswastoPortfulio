@@ -98,7 +98,7 @@ Some of the projects included in this portfolio:
 Feel free to reach out if you'd like to collaborate or discuss opportunities.
 
 * Email: saswasto16@gmail.com
-* LinkedIn:
+* LinkedIn: https://www.linkedin.com/in/saswasto-basak-a94623289/
 * GitHub: https://github.com/saswasto
 
 ## Contributing
